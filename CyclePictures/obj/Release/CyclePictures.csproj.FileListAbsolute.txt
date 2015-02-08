@@ -1,0 +1,12 @@
+D:\Projects\ImageViewer\CyclePictures\bin\Release\CyclePictures.exe.config
+D:\Projects\ImageViewer\CyclePictures\bin\Release\CyclePictures.exe
+D:\Projects\ImageViewer\CyclePictures\bin\Release\CyclePictures.pdb
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.csprojResolveAssemblyReference.cache
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.addFiles.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.ErrorMsg.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.FileName.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.Form1.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.Properties.Resources.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.csproj.GenerateResource.Cache
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.exe
+D:\Projects\ImageViewer\CyclePictures\obj\Release\CyclePictures.pdb

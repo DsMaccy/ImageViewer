@@ -10,3 +10,15 @@ C:\Users\Dylan\Desktop\Programming Stuff\Visual Studio 2013\Projects\CyclePictur
 C:\Users\Dylan\Desktop\Programming Stuff\Visual Studio 2013\Projects\CyclePictures\CyclePictures\obj\Debug\CyclePictures.addFiles.resources
 C:\Users\Dylan\Desktop\Programming Stuff\Visual Studio 2013\Projects\CyclePictures\CyclePictures\obj\Debug\CyclePictures.FileName.resources
 C:\Users\Dylan\Desktop\Programming Stuff\Visual Studio 2013\Projects\CyclePictures\CyclePictures\obj\Debug\CyclePictures.ErrorMsg.resources
+D:\Projects\ImageViewer\CyclePictures\bin\Debug\CyclePictures.exe.config
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.exe
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.pdb
+D:\Projects\ImageViewer\CyclePictures\bin\Debug\CyclePictures.exe
+D:\Projects\ImageViewer\CyclePictures\bin\Debug\CyclePictures.pdb
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.csprojResolveAssemblyReference.cache
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.addFiles.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.ErrorMsg.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.FileName.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.Form1.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.Properties.Resources.resources
+D:\Projects\ImageViewer\CyclePictures\obj\Debug\CyclePictures.csproj.GenerateResource.Cache
